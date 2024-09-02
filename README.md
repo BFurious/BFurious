@@ -1,9 +1,4 @@
-
-<style>
-  body{
-    background:#2ea04366;
-  }
-</style>
+<div style="background:#2ea04366;">
 <h1 align="center">Hi 👋, I'm Ashutosh Thakur</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -33,4 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bfurious&show_icons=true&locale=en" alt="bfurious" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bfurious&" alt="bfurious" /></p>
+</div>
 
