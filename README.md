@@ -1,4 +1,9 @@
 
+<style>
+  body{
+    background:#2ea04366;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Ashutosh Thakur</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
