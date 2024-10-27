@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Dev Ops, AWS, nestJS**
 
-- 👨‍💻 All of my projects are available at [https://ashutosh-portfolio-n42c.onrender.com/](https://ashutosh-portfolio-n42c.onrender.com/)
+- 👨‍💻 All of my projects are available at [[https://ashutosh-portfolio-n42c.onrender.com/](https://ashutoshthakur.vercel.app/)]
 
 - 💬 Ask me about **Developing magic**
 
