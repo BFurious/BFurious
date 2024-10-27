@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Developing magic**
 
-- 📫 How to reach me **ashutoshth456@gmail.com**
+- 📫 How to reach me **ashutoshth456@gmail.com**, **bfurious146@gmail.com**
 
 - 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1ZrlP43mW2b9g5f4Oai9OUUyZBKcm6ku0/view?usp=sharing)]
 
